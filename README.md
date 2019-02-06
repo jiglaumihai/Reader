@@ -7,4 +7,4 @@ Example of text file:
 	RAM 100
 
 The reader program will split the text and find the integers and calculate the total. 
-The text format should be like in example above: first the text, blank space and after that the numbers.
+The text format must be as in the example above: first the text, blank space and after that the numbers.
